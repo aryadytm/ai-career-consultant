@@ -1,4 +1,4 @@
-# AI Career Consultant
+# AI Career Consultant 🧑‍💼
 
 This app serves as an AI Career Consultant that provides advice based on the user's uploaded CV or portfolio. The app is built using Streamlit and leverages the GPT-3.5-turbo model from OpenAI.
 
