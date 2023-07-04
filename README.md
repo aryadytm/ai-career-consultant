@@ -12,6 +12,8 @@ This app serves as an AI Career Consultant that provides advice based on the use
 
 ## Quick Start
 
+First, rename the `.env.example` to `.env` then replace the API keys.
+
 ```bash
 pip install -r requirements.txt
 streamlit run main.py --server.address 0.0.0.0  --server.port 7860
