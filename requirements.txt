@@ -52,13 +52,16 @@ pydantic==1.10.10
 pydeck==0.8.1b0
 Pygments==2.15.1
 Pympler==1.0.1
+pypdf==3.12.0
 pyrsistent==0.19.3
 python-dateutil==2.8.2
+python-docx==0.8.11
 python-dotenv==1.0.0
 python-pptx==0.6.21
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0
+reportlab==4.0.4
 requests==2.31.0
 rich==13.4.2
 six==1.12.0
